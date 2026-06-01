@@ -1,2 +1,0 @@
-/usr/bin/ar qc librailsafe_lib.a CMakeFiles/railsafe_lib.dir/src/Signal.cpp.o CMakeFiles/railsafe_lib.dir/src/TrackSection.cpp.o CMakeFiles/railsafe_lib.dir/src/Train.cpp.o CMakeFiles/railsafe_lib.dir/src/SafetyController.cpp.o
-/usr/bin/ranlib librailsafe_lib.a
