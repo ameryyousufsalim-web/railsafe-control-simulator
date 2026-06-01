@@ -1,0 +1,9 @@
+SafetyControllerTest.TrainCanEnterFreeSectionWithGreenSignal 1 0.0419243
+SafetyControllerTest.TrainCannotEnterOccupiedSection 1 0.0410438
+SafetyControllerTest.TrainCannotEnterWithRedSignal 1 0.0381237
+SafetyControllerTest.ConflictDetectedWhenSectionOccupied 1 0.0346917
+SafetyControllerTest.NoConflictWhenSectionIsFree 1 0.0192876
+SafetyControllerTest.EmergencyStopRequiredForRedSignal 1 0.0125294
+SafetyControllerTest.EmergencyStopRequiredForOccupiedTargetSection 1 0.00992389
+SafetyControllerTest.NoEmergencyStopForGreenSignalAndFreeSection 1 0.00964471
+---

@@ -1,0 +1,5 @@
+if(EXISTS "/mnt/c/Users/amery/Documents/Hochschule/railsafe-control-simulator/build/railsafe_tests[1]_tests.cmake")
+  include("/mnt/c/Users/amery/Documents/Hochschule/railsafe-control-simulator/build/railsafe_tests[1]_tests.cmake")
+else()
+  add_test(railsafe_tests_NOT_BUILT railsafe_tests_NOT_BUILT)
+endif()

@@ -1,0 +1,219 @@
+Start testing: Jun 01 19:47 CEST
+----------------------------------------------------------
+1/8 Testing: SafetyControllerTest.TrainCanEnterFreeSectionWithGreenSignal
+1/8 Test: SafetyControllerTest.TrainCanEnterFreeSectionWithGreenSignal
+Command: "/mnt/c/Users/amery/Documents/Hochschule/railsafe-control-simulator/build/railsafe_tests" "--gtest_filter=SafetyControllerTest.TrainCanEnterFreeSectionWithGreenSignal" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/amery/Documents/Hochschule/railsafe-control-simulator/build
+"SafetyControllerTest.TrainCanEnterFreeSectionWithGreenSignal" start time: Jun 01 19:47 CEST
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/amery/Documents/Hochschule/railsafe-control-simulator/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = SafetyControllerTest.TrainCanEnterFreeSectionWithGreenSignal
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from SafetyControllerTest
+[ RUN      ] SafetyControllerTest.TrainCanEnterFreeSectionWithGreenSignal
+[       OK ] SafetyControllerTest.TrainCanEnterFreeSectionWithGreenSignal (0 ms)
+[----------] 1 test from SafetyControllerTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"SafetyControllerTest.TrainCanEnterFreeSectionWithGreenSignal" end time: Jun 01 19:47 CEST
+"SafetyControllerTest.TrainCanEnterFreeSectionWithGreenSignal" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/8 Testing: SafetyControllerTest.TrainCannotEnterOccupiedSection
+2/8 Test: SafetyControllerTest.TrainCannotEnterOccupiedSection
+Command: "/mnt/c/Users/amery/Documents/Hochschule/railsafe-control-simulator/build/railsafe_tests" "--gtest_filter=SafetyControllerTest.TrainCannotEnterOccupiedSection" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/amery/Documents/Hochschule/railsafe-control-simulator/build
+"SafetyControllerTest.TrainCannotEnterOccupiedSection" start time: Jun 01 19:47 CEST
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/amery/Documents/Hochschule/railsafe-control-simulator/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = SafetyControllerTest.TrainCannotEnterOccupiedSection
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from SafetyControllerTest
+[ RUN      ] SafetyControllerTest.TrainCannotEnterOccupiedSection
+[       OK ] SafetyControllerTest.TrainCannotEnterOccupiedSection (0 ms)
+[----------] 1 test from SafetyControllerTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"SafetyControllerTest.TrainCannotEnterOccupiedSection" end time: Jun 01 19:47 CEST
+"SafetyControllerTest.TrainCannotEnterOccupiedSection" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/8 Testing: SafetyControllerTest.TrainCannotEnterWithRedSignal
+3/8 Test: SafetyControllerTest.TrainCannotEnterWithRedSignal
+Command: "/mnt/c/Users/amery/Documents/Hochschule/railsafe-control-simulator/build/railsafe_tests" "--gtest_filter=SafetyControllerTest.TrainCannotEnterWithRedSignal" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/amery/Documents/Hochschule/railsafe-control-simulator/build
+"SafetyControllerTest.TrainCannotEnterWithRedSignal" start time: Jun 01 19:47 CEST
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/amery/Documents/Hochschule/railsafe-control-simulator/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = SafetyControllerTest.TrainCannotEnterWithRedSignal
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from SafetyControllerTest
+[ RUN      ] SafetyControllerTest.TrainCannotEnterWithRedSignal
+[       OK ] SafetyControllerTest.TrainCannotEnterWithRedSignal (0 ms)
+[----------] 1 test from SafetyControllerTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"SafetyControllerTest.TrainCannotEnterWithRedSignal" end time: Jun 01 19:47 CEST
+"SafetyControllerTest.TrainCannotEnterWithRedSignal" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/8 Testing: SafetyControllerTest.ConflictDetectedWhenSectionOccupied
+4/8 Test: SafetyControllerTest.ConflictDetectedWhenSectionOccupied
+Command: "/mnt/c/Users/amery/Documents/Hochschule/railsafe-control-simulator/build/railsafe_tests" "--gtest_filter=SafetyControllerTest.ConflictDetectedWhenSectionOccupied" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/amery/Documents/Hochschule/railsafe-control-simulator/build
+"SafetyControllerTest.ConflictDetectedWhenSectionOccupied" start time: Jun 01 19:47 CEST
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/amery/Documents/Hochschule/railsafe-control-simulator/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = SafetyControllerTest.ConflictDetectedWhenSectionOccupied
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from SafetyControllerTest
+[ RUN      ] SafetyControllerTest.ConflictDetectedWhenSectionOccupied
+[       OK ] SafetyControllerTest.ConflictDetectedWhenSectionOccupied (0 ms)
+[----------] 1 test from SafetyControllerTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"SafetyControllerTest.ConflictDetectedWhenSectionOccupied" end time: Jun 01 19:47 CEST
+"SafetyControllerTest.ConflictDetectedWhenSectionOccupied" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/8 Testing: SafetyControllerTest.NoConflictWhenSectionIsFree
+5/8 Test: SafetyControllerTest.NoConflictWhenSectionIsFree
+Command: "/mnt/c/Users/amery/Documents/Hochschule/railsafe-control-simulator/build/railsafe_tests" "--gtest_filter=SafetyControllerTest.NoConflictWhenSectionIsFree" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/amery/Documents/Hochschule/railsafe-control-simulator/build
+"SafetyControllerTest.NoConflictWhenSectionIsFree" start time: Jun 01 19:47 CEST
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/amery/Documents/Hochschule/railsafe-control-simulator/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = SafetyControllerTest.NoConflictWhenSectionIsFree
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from SafetyControllerTest
+[ RUN      ] SafetyControllerTest.NoConflictWhenSectionIsFree
+[       OK ] SafetyControllerTest.NoConflictWhenSectionIsFree (0 ms)
+[----------] 1 test from SafetyControllerTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"SafetyControllerTest.NoConflictWhenSectionIsFree" end time: Jun 01 19:47 CEST
+"SafetyControllerTest.NoConflictWhenSectionIsFree" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/8 Testing: SafetyControllerTest.EmergencyStopRequiredForRedSignal
+6/8 Test: SafetyControllerTest.EmergencyStopRequiredForRedSignal
+Command: "/mnt/c/Users/amery/Documents/Hochschule/railsafe-control-simulator/build/railsafe_tests" "--gtest_filter=SafetyControllerTest.EmergencyStopRequiredForRedSignal" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/amery/Documents/Hochschule/railsafe-control-simulator/build
+"SafetyControllerTest.EmergencyStopRequiredForRedSignal" start time: Jun 01 19:47 CEST
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/amery/Documents/Hochschule/railsafe-control-simulator/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = SafetyControllerTest.EmergencyStopRequiredForRedSignal
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from SafetyControllerTest
+[ RUN      ] SafetyControllerTest.EmergencyStopRequiredForRedSignal
+[       OK ] SafetyControllerTest.EmergencyStopRequiredForRedSignal (0 ms)
+[----------] 1 test from SafetyControllerTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"SafetyControllerTest.EmergencyStopRequiredForRedSignal" end time: Jun 01 19:47 CEST
+"SafetyControllerTest.EmergencyStopRequiredForRedSignal" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/8 Testing: SafetyControllerTest.EmergencyStopRequiredForOccupiedTargetSection
+7/8 Test: SafetyControllerTest.EmergencyStopRequiredForOccupiedTargetSection
+Command: "/mnt/c/Users/amery/Documents/Hochschule/railsafe-control-simulator/build/railsafe_tests" "--gtest_filter=SafetyControllerTest.EmergencyStopRequiredForOccupiedTargetSection" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/amery/Documents/Hochschule/railsafe-control-simulator/build
+"SafetyControllerTest.EmergencyStopRequiredForOccupiedTargetSection" start time: Jun 01 19:47 CEST
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/amery/Documents/Hochschule/railsafe-control-simulator/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = SafetyControllerTest.EmergencyStopRequiredForOccupiedTargetSection
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from SafetyControllerTest
+[ RUN      ] SafetyControllerTest.EmergencyStopRequiredForOccupiedTargetSection
+[       OK ] SafetyControllerTest.EmergencyStopRequiredForOccupiedTargetSection (0 ms)
+[----------] 1 test from SafetyControllerTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"SafetyControllerTest.EmergencyStopRequiredForOccupiedTargetSection" end time: Jun 01 19:47 CEST
+"SafetyControllerTest.EmergencyStopRequiredForOccupiedTargetSection" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/8 Testing: SafetyControllerTest.NoEmergencyStopForGreenSignalAndFreeSection
+8/8 Test: SafetyControllerTest.NoEmergencyStopForGreenSignalAndFreeSection
+Command: "/mnt/c/Users/amery/Documents/Hochschule/railsafe-control-simulator/build/railsafe_tests" "--gtest_filter=SafetyControllerTest.NoEmergencyStopForGreenSignalAndFreeSection" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/amery/Documents/Hochschule/railsafe-control-simulator/build
+"SafetyControllerTest.NoEmergencyStopForGreenSignalAndFreeSection" start time: Jun 01 19:47 CEST
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/amery/Documents/Hochschule/railsafe-control-simulator/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = SafetyControllerTest.NoEmergencyStopForGreenSignalAndFreeSection
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from SafetyControllerTest
+[ RUN      ] SafetyControllerTest.NoEmergencyStopForGreenSignalAndFreeSection
+[       OK ] SafetyControllerTest.NoEmergencyStopForGreenSignalAndFreeSection (0 ms)
+[----------] 1 test from SafetyControllerTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"SafetyControllerTest.NoEmergencyStopForGreenSignalAndFreeSection" end time: Jun 01 19:47 CEST
+"SafetyControllerTest.NoEmergencyStopForGreenSignalAndFreeSection" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jun 01 19:47 CEST
